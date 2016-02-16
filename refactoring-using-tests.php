@@ -17,8 +17,8 @@
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/foundation.css">
 <script src="/js/vendor/custom.modernizr.js"></script>
-<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
-<script src="http://vjs.zencdn.net/c/video.js"></script>
+<link href="https://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+<script src="https://vjs.zencdn.net/c/video.js"></script>
 </head>
 <body>
 <!-- Header and Nav -->
@@ -66,7 +66,7 @@
         </p>
         <ul class="small-block-grid-2 medium-block-grid-2 large-block-grid-2">
             <li>
-            <img src="/images/episode-01.jpeg" alt="Episode 1" /><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a> <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1313572&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $2 </a><br><br>
+            <img src="/images/episode-01.jpeg" alt="Episode 1" /><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a> <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1313572&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $2 </a><br><br>
 
             <p>
             Chris introduces the application and the tools he will be using for the series<br>
@@ -74,7 +74,7 @@
             </p>
             </li>
             <li>
-            <img src="/images/episode-02.jpeg" alt="Episode 2" /><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a> <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1313574&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $9.50 </i></a><br><br>
+            <img src="/images/episode-02.jpeg" alt="Episode 2" /><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a> <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1313574&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $9.50 </i></a><br><br>
             <p>
             Chris starts by refactoring a single page from a spaghetti structure into a
             page controller with PHP templates and moving code into models<br>
@@ -82,8 +82,8 @@
             </p>
             </li>
             <li>
-            <img src="/images/episode-03.jpeg" alt="Episode 3" /><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
-            <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1313604&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $9.50 </i></a><br><br>
+            <img src="/images/episode-03.jpeg" alt="Episode 3" /><a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
+            <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1313604&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $9.50 </i></a><br><br>
             Chris shows how he adds tests to legacy applications, featuring Aura.Sql and advanced mocking scenarios<br>
             77 minutes
             </li>
@@ -146,7 +146,7 @@ $(document).foundation({
          // -->
 
         </script>
-        <script src='http://www.e-junkie.com/ecom/box.js' type='text/javascript'></script>
+        <script src='https://www.e-junkie.com/ecom/box.js' type='text/javascript'></script>
         </body>
         </html>
 

@@ -17,8 +17,8 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/foundation.css">
     <script src="/js/vendor/custom.modernizr.js"></script>
-    <link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
-    <script src="http://vjs.zencdn.net/c/video.js"></script>
+    <link href="https://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/c/video.js"></script>
 </head>
 <body>
 <!-- Header and Nav -->
@@ -35,8 +35,8 @@
         <hr>
     <h3>You're tired of trying to figure out testing PHP code on your own</h3>
 <p>	
-You've been working on refactoring your code to be <a href="http://grumpy-testing.com">more testable</a> and
-you've got some no-nonsense info on <a href="http://grumpy-phpunit.com">using PHPUnit</a>.
+You've been working on refactoring your code to be <a href="https://leanpub.com/grumpy-testing">more testable</a> and
+you've got some no-nonsense info on <a href="https://leanpub.com/grumpy-phpunit">using PHPUnit</a>.
 </p>
 <p>
 But how do you
@@ -83,7 +83,7 @@ a sample.
 <video id="sample_1" class="video-js vjs-default-skin" controls
     preload="auto" width="320" height="240"
     data-setup="{}">
-    <source src="http://grumpy-learning.s3.amazonaws.com/php-testing-bootcamp-session-sample.mp4" type='video/mp4'>
+    <source src="https://grumpy-learning.s3.amazonaws.com/php-testing-bootcamp-session-sample.mp4" type='video/mp4'>
 </video>
 </p>
 <p>
@@ -97,8 +97,8 @@ your PHP code. It's the next best thing to having someone like Chris working wit
 <b><i>For just $49.50 you get more than four hours of videos that you can download and keep forever</i></b>.<br> 
 </p> 
 <p align="center">
-<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
-<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1219892&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $49.50 </a>
+<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
+<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=1219892&cl=243577&ejc=2" target="ej_ejc" class="ec_ejc_thkbx"><img src="https://www.e-junkie.com/ej/ej_add_to_cart.gif" border="0" alt="Add to Cart"/> $49.50 </a>
 <br><br>
 <a href="/">Return to the front page</a>
 </p>
@@ -158,7 +158,7 @@ function EJEJC_config(th) {
 }
 // -->
 </script>
-<script src='http://www.e-junkie.com/ecom/box.js' type='text/javascript'></script>
+<script src='https://www.e-junkie.com/ecom/box.js' type='text/javascript'></script>
 </body>
 </html>
 

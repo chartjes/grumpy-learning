@@ -38,7 +38,7 @@
     </blockquote>
     <div class="container container--normal">
         <div class="package" id="mvt-basic">
-            <a href="https://leanpub.com/minimumviabletests"><img src="images/mvt-title-page-web.jpg" class="u-image-pull-right" alt="Cover for Minimum Viable Tests"/></a>
+            <a href="https://leanpub.com/minimumviabletests"><img src="images/mvt-title-page-web.jpg" class="u-image-pull-left" alt="Cover for Minimum Viable Tests"/></a>
             <h2 class="section-heading" id="#mvt">Minimum Viable Tests</h2>
             <p>You've been doing PHP development for a while but you find yourself constantly battling bugs, finding it hard to integrate bits of code together, and staying late to do deployments. You know there is a better way through test-driven development but you have no idea where to start.</p>
             <p>You imagine yourself sitting down with an experienced developer -- just you and them, steadily working through problems and learning how to use test-driven development to design the API's and interfaces for your code while making sure nothing leaves development until you're 100% sure it's working.</p>
@@ -63,7 +63,7 @@
             </a>
         </div>
         <div class="package" id="phpunit-cookbook-basic">
-            <a href="https://leanpub.com/grumpy-phpunit"><img src="images/grumpy-phpunit-title.png" class="u-image-pull-right" alt="Cover for Minimum Viable Tests"/></a>
+            <a href="https://leanpub.com/grumpy-phpunit"><img src="images/grumpy-phpunit-title.png" class="u-image-pull-left" alt="Cover for Minimum Viable Tests"/></a>
             <h2 class="section-heading" id="#phpunitcookbook">The Grumpy Programmer's PHPUnit Cookbook</h2>
             <h3>Learning how to use PHPUnit doesn't have to suck</h3>
             <p>PHPUnit is the most commonly-used unit testing framework for PHP developers.

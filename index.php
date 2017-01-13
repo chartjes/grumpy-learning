@@ -29,11 +29,12 @@
     </div>
 </header>
 
+<?php require './testimonials.php' ?>
 <main role="main">
     <blockquote class="quote">
         <div class="container container--widened">
-            <p class="quote__text">Chris's books helped me to get over that horrible early bump in the road that you find when you're learning to test. He helped everything click and made me understand not just how to test, but why you should do it. I liked them so much I've bought copies for other people! Thank you, Chris.</p>
-            <cite class="quote__byline"><a href="https://twitter.com/GeeH">Gary Hockin, Developer Relations at JetBrains</a></cite>
+            <p class="quote__text"><?= $testimonial['text'] ?></p>
+            <cite class="quote__byline"><?= $testimonial['byline'] ?></cite>
         </div>
     </blockquote>
     <div class="container container--normal">

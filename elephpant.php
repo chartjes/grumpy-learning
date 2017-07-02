@@ -36,7 +36,7 @@
                 partnering with <a href="https://osmihelp.org">OSMI</a> to make these available to you.
             </p>
             <p>
-                Just USD$100 (including shipping) and 50% of the proceeds of this sale will be going to help OSMI continue raising awareness of mental
+                Just USD$100 (including shipping world-wide) and US$50 of the proceeds of this sale will be going to help OSMI continue raising awareness of mental
                 health issues in the tech industry.
             </p>
             <p>

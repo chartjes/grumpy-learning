@@ -31,12 +31,38 @@
 
 <?php require './testimonials.php' ?>
 <main role="main">
-    <blockquote class="quote">
-        <div class="container container--widened">
-            <p class="quote__text"><?= $testimonial['text'] ?></p>
-            <cite class="quote__byline"><?= $testimonial['byline'] ?></cite>
+    <div class="container container--normal">
+        <div class="package" id="test-driven-basic">
+            <h2 align="center">
+                <a href="/elephpant.php">
+                    During the month of July help Grumpy Learning raise money for OSMI by purchasing
+                    one of 21 Woolly Mammoth Elephants for US$100 including shipping world-wide, with US$50
+                    going to OSMI for each elephpant sold.
+                </a>
+            </h2>
         </div>
-    </blockquote>
+    </div>
+    <div class="container container--normal">
+        <div class="package" id="test-driven-basic">
+            <a href="https://leanpub.com/test-driven"><img src="images/test-driven.jpg" class="u-image-pull-left" alt="Cover for Building Test-Driven Developers"/></a>
+            <h2 class="section-heading" id="#testdriven">Building Test-Driven Developers</h2>
+	<p>Long-time PHP testing advocate Chris Hartjes takes a look at one of the least-understood parts of testing computer software -- managing the expectations of people. In this book Chris draws on his experience of over a decade of helping developers build the skills needed to become good at testing and talks about how tests are written by people, not machines. His views on what to do when there are no tests but you want some, or what to do with a test suite nobody likes will challenge your thoughts on what testing is really about.</p>
+            <p>"Building Test-Driven Developers" covers: 
+<ul class="checkbox-list">
+                    <li class="checkbox-list__item">What is a "testing culture"</li>
+                    <li class="checkbox-list__item">Handling things when there are no tests</li>
+                    <li class="checkbox-list__item">Why testing should be "just part of the job"</li>
+                    <li class="checkbox-list__item">Dealing with tests nobody runs</li>
+                    <li class="checkbox-list__item">Does "Chicago vs. London" really matter?</li>
+                    <li class="checkbox-list__item">Dealing with difficult people</li>
+                </ul>
+            </p>
+<p>You need people skills to go along with all those great testing skills you've been building. Chris is here to help with those too!</p>
+            <a href="https://leanpub.com/test-driven" class="button package__button">
+                <span class="package__button-price">$9</span>
+                <span class="package__button-text">Buy Now Via LeanPub</span>
+            </a>
+        </div>
     <div class="container container--normal">
         <div class="package" id="mvt-basic">
             <a href="https://leanpub.com/minimumviabletests"><img src="images/mvt-title-page-web.jpg" class="u-image-pull-left" alt="Cover for Minimum Viable Tests"/></a>
@@ -59,7 +85,7 @@
             </p>
             <p>Chris has been watching and listening to people as they start their journey towards become test-driven developers. "Minimum Viable Tests" is designed to be your guide on the path to having well-tested, confidently-deployed PHP applications.</p>
             <a href="https://leanpub.com/minimumviabletests" class="button package__button">
-                <span class="package__button-price">$29</span>
+                <span class="package__button-price">$19</span>
                 <span class="package__button-text">Buy Now Via LeanPub</span>
             </a>
         </div>
@@ -90,7 +116,7 @@
                 My new ebook "The Grumpy Programmer's PHPUnit Cookbook" is a collection of tips and tricks for making PHPUnit do what you need it do in order to write tests for your code. With the information contained in this book you will get a jump start to make writing tests something you do effortlessly.
             </p>
             <a href="https://leanpub.com/grumpy-phpunit" class="button package__button">
-                <span class="package__button-price">$29</span>
+                <span class="package__button-price">$19</span>
                 <span class="package__button-text">Buy Now Via LeanPub</span>
             </a>
         </div>

@@ -36,7 +36,7 @@
                 partnering with <a href="https://osmihelp.org">OSMI</a> to make these available to you.
             </p>
             <p>
-                Just USD$100 (including shipping world-wide) and US$50 of the proceeds of this sale will be going to help OSMI continue raising awareness of mental
+                Just USD$100 (including shipping world-wide) and US$50 of each sale will be going to help OSMI continue raising awareness of mental
                 health issues in the tech industry.
             </p>
             <p>
@@ -51,6 +51,18 @@
       </h3>
   </div>>
   </main>
+  <footer class="footer">
+      <div class="container container--grid">
+          <div class="footer__col footer__col--normal">
+              <p>Got questions? <a href="mailto:chartjes@grumpy-learning.com">Email me</a> or find me on <a href="https://twitter.com/grmpyprogrammer">Twitter</a> as @grmpyprogrammer</p>
+          </div>
+          <div class="footer__bottom">
+              <p>&copy; <?= date('Y') ?> Grumpy Learning Inc. All Right Reserved</p>
+          </div>
+      </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="assets/js/app.js"></script>
 </div>
 </body>
 </html>

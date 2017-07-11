@@ -39,7 +39,7 @@
                 Just USD$100 (including shipping world-wide) and US$50 of each sale will be going to help OSMI continue raising awareness of mental
                 health issues in the tech industry.
             </p>
-            <p><b>(Update July 11: There are only 9 of them left! Don't miss out on your chance to own a unique piece of PHP memorabilia)</b></p>
+            <p><b>(Update July 11: There are only 8 of them left! Don't miss out on your chance to own a unique piece of PHP memorabilia)</b></p>
             <p>
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
               <input type="hidden" name="cmd" value="_s-xclick">

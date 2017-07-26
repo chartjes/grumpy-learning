@@ -35,9 +35,8 @@
         <div class="package" id="test-driven-basic">
             <h2 align="center">
                 <a href="/elephpant.php">
-                    During the month of July help Grumpy Learning raise money for OSMI by purchasing
-                    one of 21 Woolly Mammoth Elephants for US$100 including shipping world-wide, with US$50
-                    going to OSMI for each elephpant sold.
+                    Thanks to your generousity, I was able to raise over US$1000 for OSMI through the sale
+                    of my personal collection of woolly mammoth elephpants.
                 </a>
             </h2>
         </div>

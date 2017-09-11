@@ -41,11 +41,11 @@
     </ul>
     GrumpyConf 2018 is your chance to hear from some of the PHP community's most impactful speakers in the morning,
     and then interact with them and your fellow attendees in an <a href="http://www.mindviewinc.com/Conferences/OpenSpaces.html">open spaces</a>
-    environment in the afternoon.
+    environment in the afternoon. Finally, we'll be having a birthday party at the end for Chris (Black Forest cake will be provided!)
     <br><br>
     Your ticket is for 3 days of the conference, running March 22-24, 2018. It includes a room at the venue, the beautiful
-    <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> (sorry, no discounts for folks not intending to stay at the Inn).
-    Breakfast is provided for guests staying at the Inn, lunch and snacks will be provided to attendees.
+    <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in Ingersoll, Ontario (about 90 minutes west of Toronto).
+    Breakfast is provided for guests staying overnight at the Inn, lunch and snacks will be provided to attendees.
     </p>
     <tito-widget event="grumpyconf/2018"></tito-widget>
     <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options. Price goes up once the speakers are announced!</p>

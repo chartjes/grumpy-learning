@@ -32,21 +32,31 @@
   </header>
   <main role-"main">
   <div class="container container--normal">
-        <h3>Do you trust me?</h3>
+        <h2>Do you trust me?</h2>
     <p>
-    <ul>
-        <li>50 attendees</li>
-        <li>6 high-impact speakers from the PHP world</li>
-        <li>1 birthday party</li>
-    </ul>
+    50 attendees<br>
+    6 high-impact speakers from the PHP world<br>
+    1 birthday party<br>
+    </p>
+    <p>
     GrumpyConf 2018 is your chance to hear from some of the PHP community's most impactful speakers in the morning,
     and then interact with them and your fellow attendees in an <a href="http://www.mindviewinc.com/Conferences/OpenSpaces.html">open spaces</a>
     environment in the afternoon. Finally, we'll be having a birthday party at the end for Chris (Black Forest cake will be provided!)
-    <br><br>
+    </p> 
+    <p>
     Your ticket is for 3 days of the conference, running March 22-24, 2018. It includes a room at the venue, the beautiful
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in Ingersoll, Ontario (about 90 minutes west of Toronto).
     Breakfast is provided for guests staying overnight at the Inn, lunch and snacks will be provided to attendees.
     </p>
+    <h2>Speakers</h2>
+    <p>Chris has selected 6 speakers who he feels will push both your PHP skills and your professional skills. So who is coming?</p>
+    <h3>Ed Finkler</h3>
+    <p>You might know him through his work with <a href="https://osmihelp.org">Open Sourcing Mental Illness</a> or recording
+    a <a href="https://devhell.info">podcast</a> with Chris. He's also a good developer and an even better communicator.
+    </p>
+    <h3>More speakers to be revealed...</h3> 
+    <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
+    Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>
     <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options. Price goes up once the speakers are announced!</p>
   </div>

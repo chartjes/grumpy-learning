@@ -38,7 +38,7 @@
     6 high-impact speakers from the PHP world<br>
     1 birthday party<br>
     </p>
-    <p>I helped run <b>True North PHP</b> for five years, and now I wanted to do <b>something different</b>. I
+    <p>I helped run <a href="https://truenorthphp.ca"><b>True North PHP</b></a> for five years, and now I wanted to do <b>something different</b>. I
 want to use my <b>conference organizing experience</b> to do something <b>unique</b> for you.</p>
     <p>
     <b>GrumpyConf 2018</b> is your chance to hear from some of the PHP community's most <b>impactful speakers</b> in the morning,

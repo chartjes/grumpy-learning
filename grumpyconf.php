@@ -69,7 +69,13 @@ Moses to come and talk.</p>
 <b>interesting (at least to me) projects</b> and his experiences will be
 invaluable to someone looking to <b>build a career</b> full of opportunities to
 work on things that <b>interact with the real world</b>.</p>
-    <h3>Four more speakers to be revealed...</h3>
+    <h3>Sara Golemon</h3>
+    <p><img height=240 width=240 src="images/sara_golemon.jpeg" /></p>
+    <p>She's part of the <b>core PHP team</b>, the <b>release manager</b> for PHP 7.2 and worked on <b>HHVM and Hack</b>.  She also
+    always calls me Grumpy. Sara is an <b>entertaining speaker</b> who loves talking about <b>programming languages</b> She spoke
+    at TrueNorthPHP and I'm happy she accepted my invitation to come and speak at GrumpyConf 2018.
+    </p>
+    <h3>Three more speakers to be revealed...</h3>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>

@@ -35,7 +35,7 @@
         <div class="package" id="test-driven-basic">
             <h2 align="center">
                 <a href="/grumpyconf.php">
-                    Do you trust me? Blind bird tickets on sale right now for GrumpyConf 2018 starting at CDN$699.
+                    Do you trust me? Blind bird tickets on sale right now<br>for GrumpyConf 2018 starting at CDN$699
                 </a>
             </h2>
         </div>

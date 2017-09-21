@@ -27,7 +27,7 @@
   <header class="header header--centered">
   <div class="container container--normal">
       <h1 class="header__title">GrumpyConf 2018 </h1>
-      <p class="header__tagline"><b>March 22-24, 2018</b> -- learn like a grumpy programmer</p>
+      <p class="header__tagline"><b>March 22-24, 2018</b> -- Learn like a grumpy programmer</p>
   </div>
   </header>
   <main role-"main">
@@ -44,7 +44,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     <b>GrumpyConf 2018</b> is your chance to hear from some of the PHP community's most <b>impactful speakers</b> in the morning,
     and then <b>interact with them</b> and your fellow attendees in an <b><a href="http://www.mindviewinc.com/Conferences/OpenSpaces.html">open spaces</a></b>
     environment in the afternoon. Finally, we'll be having a birthday party at the end - it's my 47th birthday! (Black Forest cake will be provided)
-    </p> 
+    </p>
     <p>
     Your ticket is for <b>3 days</b> of the conference, running March 22-24, 2018. It <b>includes a room</b> at the venue, the beautiful
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in <b>Ingersoll, Ontario, Canada</b> (about 90 minutes west of Toronto).
@@ -75,7 +75,19 @@ work on things that <b>interact with the real world</b>.</p>
     always calls me Grumpy. Sara is an <b>entertaining speaker</b> who loves talking about <b>programming languages</b> She spoke
     at TrueNorthPHP and I'm happy she accepted my invitation to come and speak at GrumpyConf 2018.
     </p>
-    <h3>Three more speakers to be revealed...</h3>
+    <h3>Eryn O'Neill</h3>
+        <p><img height=240 width=240 src="images/eryn_oneill.jpeg" /></p>
+        <p>I've been speaking at conferences since 2005 and I've seen several
+        people <b>go from attendee to nervous speaker to in-demand speaker</b>. Eryn is
+        one of those people!
+        </p>
+        <p>Her <b>observations</b> about the <b>complementary skills</b> a
+        programer needs (what a lot of people derogatorily refer to as "soft
+skills") to succeed are <b>insightful and on-target</b>. When you combine that
+            with her experiences as a <b>freelance developer</b>, you'll quickly realize
+why I invited her to come and talk.
+        </p>
+    <h3>Two more speakers to be revealed...</h3>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>

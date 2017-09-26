@@ -87,7 +87,14 @@ skills") to succeed are <b>insightful and on-target</b>. When you combine that
             with her experiences as a <b>freelance developer</b>, you'll quickly realize
 why I invited her to come and talk.
         </p>
-    <h3>Two more speakers to be revealed...</h3>
+    <h3>Matthew Weier-O'Phinney</h3>
+        <p><img height=240 width=240 src="images/mwop.jpeg" /></p>
+        <p>From <b>divinity major at college</b> to "Supreme Allied Commander" of <b>Zend Framework</b>, Matthew is one
+        of the most <b>well-rounded</b> people I've gotten to know over my years in this industry. I had been trying for years
+        to get him to speak at my events, and I'm <b>grateful he accepted</b> my invitation this time.
+        </p>
+        <p>Matthew is also one of the lucky few that was inspired by my <b>4-day work week</b> strategy and made it work for himself!</p> 
+    <h3>One more speaker to be revealed...</h3>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>

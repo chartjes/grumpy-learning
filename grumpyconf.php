@@ -94,7 +94,10 @@ why I invited her to come and talk.
         to get him to speak at my events, and I'm <b>grateful he accepted</b> my invitation this time.
         </p>
         <p>Matthew is also one of the lucky few that was inspired by my <b>4-day work week</b> strategy and made it work for himself!</p> 
-    <h3>One more speaker to be revealed...</h3>
+    <h3>Lorna Mitchell</h3>
+        <p><img height=240 width=240 src="images/lornajane.jpeg" /></p>
+        <p>The very first time I <b>saw Lorna speak</b> she did it with <b>no slides</b>, which blew my mind! She is also another speaker whom I have invited over the years to hop onto a plane and fly across the Atlantic to come to Canada and speak.</p>
+        <p>Lorna always <b>packs a lot of knowledge</b> into her talks, and I never come away from any of her talks without <b>learning something new</b>. Lorna's talent lies in <b>cutting through complexity</b> and teaching you <b>what you really need to know</b>.</p>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>

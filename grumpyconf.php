@@ -32,7 +32,7 @@
   </header>
   <main role-"main">
   <div class="container container--normal">
-        <h2>Do you trust me?</h2>
+        <h2>High Performance PHP and Professional Development</h2>
     <p>
     50 attendees<br>
     6 high-impact speakers from the PHP world<br>
@@ -50,6 +50,9 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in <b>Ingersoll, Ontario, Canada</b> (about 90 minutes west of Toronto).
     Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees.
     </p>
+    <h2>Getting Here</h2>
+<p>The closest airport is <a href="http://www.flylondon.ca/">London International Airport</a>, a smaller regional airport that offers connections to larger airports, like <a href="https://torontopearson.com/">Toronto Pearson</a>. Either way you will need additional ground transportation to get to the venue. I recommend car rental or the use of services like <a href="https://reservation.robertq.com/airbus/">Robert Q</a>.</p>
+<p>Additional flight + ground transportation options are available from <a href="http://www.metroairport.com/">Detroit Metropolitan</a> or even <a href="http://www.buffaloairport.com/">Buffalo Niagara International Airport</a></p>
     <h2>Speakers</h2>
     <p>I've selected <b>6 speakers</b> who I feel will push both your <b>PHP skills</b> and your <b>professional development</b>. So who is coming?</p>
     <h3>Ed Finkler</h3>
@@ -101,7 +104,7 @@ why I invited her to come and talk.
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>
-    <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options. Price goes up once the speakers are announced!</p>
+    <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options.</p>
   </div>
   </main>
   <footer class="footer">

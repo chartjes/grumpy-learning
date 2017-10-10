@@ -46,9 +46,10 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     environment in the afternoon. Finally, we'll be having a birthday party at the end - it's my 47th birthday! (Black Forest cake will be provided)
     </p>
     <p>
-    Your ticket is for <b>3 days</b> of the conference, running March 22-24, 2018. It <b>includes a room</b> at the venue, the beautiful
+    Your ticket is for <b>3 days</b> of the conference, running March 22-24, 2018. It <b>includes a room for two nights</b> at the venue, the beautiful
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in <b>Ingersoll, Ontario, Canada</b> (about 90 minutes west of Toronto).
-    Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees.
+    Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees. Additional nights at the hotel
+    are available if you need them, just let me know what you require.
     </p>
     <h2>Getting Here</h2>
 <p>The closest airport is <a href="http://www.flylondon.ca/">London International Airport</a>, a smaller regional airport that offers connections to larger airports, like <a href="https://torontopearson.com/">Toronto Pearson</a>. Either way you will need additional ground transportation to get to the venue. I recommend car rental or the use of services like <a href="https://reservation.robertq.com/airbus/">Robert Q</a>.</p>

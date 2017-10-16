@@ -79,6 +79,11 @@ work on things that <b>interact with the real world</b>.</p>
     always calls me Grumpy. Sara is an <b>entertaining speaker</b> who loves talking about <b>programming languages</b> She spoke
     at TrueNorthPHP and I'm happy she accepted my invitation to come and speak at GrumpyConf 2018.
     </p>
+    <h4>High Performance Developer Efficiency</h4>
+    <p>The performance war between PHP and HHVM is over, but
+HackLang still leads the way in language innovation and developer
+efficiency.  In this presentation, Sara will introduce you to the the
+PHP that might have been and still can be.</p>
     <h3>Eryn O'Neill</h3>
         <p><img height=240 width=240 src="images/eryn_oneill.jpeg" /></p>
         <p>I've been speaking at conferences since 2005 and I've seen several
@@ -102,6 +107,10 @@ why I invited her to come and talk.
         <p><img height=240 width=240 src="images/lornajane.jpeg" /></p>
         <p>The very first time I <b>saw Lorna speak</b> she did it with <b>no slides</b>, which blew my mind! She is also another speaker whom I have invited over the years to hop onto a plane and fly across the Atlantic to come to Canada and speak.</p>
         <p>Lorna always <b>packs a lot of knowledge</b> into her talks, and I never come away from any of her talks without <b>learning something new</b>. Lorna's talent lies in <b>cutting through complexity</b> and teaching you <b>what you really need to know</b>.</p>
+    <h4>Roadtrip Through Database Country</h4>
+    <p>Databases must be reliable.  As a result, developers mostly stick with the tools they already know and trust, leaning more on the side of safety than innovation when choosing a database.  This is totally reasonable, but if you're curious then let's put the top down and take a road trip around Database Country, looking at the options that are out there and what might lead us to choose them as our destination one day.  We'll start with the well-trodden streets of relational databases, the head out to the rolling hills of NoSQL to check out document databases, graph databases, and more.  This high-level tour of the landscape will give you some pointers for what's available, which problems they solve, when to combine solutions - and when to simply turn tail and head for home. 
+</p>
+    <h2>Conference Code Of Conduct</h2>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     Chris strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>

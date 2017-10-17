@@ -63,6 +63,8 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     </p>
     <p>Sure, Ed is a close friend but his message in an <b>important one</b> to help you understand that <b>coding is about people</b>
     more than it is about the technology</p>
+<h3>I'm Crazy And So Can You</h3>
+        <p>Ed discusses his lifelong struggles with mental illness, and how we can promote mental wellness in the developer community</p>
     <h3>Moses Ngone</h3> 
     <p><img height=240 width=240 src="images/moses_ngone.jpeg" /></p>
     <p>There are some folks whom you come across online and you say to yourself
@@ -91,9 +93,9 @@ PHP that might have been and still can be.</p>
         one of those people!
         </p>
         <p>Her <b>observations</b> about the <b>complementary skills</b> a
-        programer needs (what a lot of people derogatorily refer to as "soft
+        programmer needs (what a lot of people derogatorily refer to as "soft
 skills") to succeed are <b>insightful and on-target</b>. When you combine that
-            with her experiences as a <b>freelance developer</b>, you'll quickly realize
+            with her experiences as a <b>free-lance developer</b>, you'll quickly realize
 why I invited her to come and talk.
         </p>
     <h3>Matthew Weier-O'Phinney</h3>

@@ -36,14 +36,13 @@
     <p>
     50 attendees<br>
     6 high-impact speakers from the PHP world<br>
-    1 birthday party<br>
     </p>
     <p>I helped run <a href="https://truenorthphp.ca"><b>True North PHP</b></a> for five years, and now I wanted to do <b>something different</b>. I
 want to use my <b>conference organizing experience</b> to do something <b>unique</b> for you.</p>
     <p>
     <b>GrumpyConf 2018</b> is your chance to hear from some of the PHP community's most <b>impactful speakers</b> in the morning,
     and then <b>interact with them</b> and your fellow attendees in an <b><a href="http://www.mindviewinc.com/Conferences/OpenSpaces.html">open spaces</a></b>
-    environment in the afternoon. Finally, we'll be having a birthday party at the end - it's my 47th birthday! (Black Forest cake will be provided)
+    environment in the afternoon. 
     </p>
     <p>
     Your ticket is for <b>3 days</b> of the conference, running March 22-24, 2018. It <b>includes a room for two nights</b> at the venue, the beautiful
@@ -51,9 +50,41 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees. Additional nights at the hotel
     are available if you need them, just let me know what you require.
     </p>
+  </div>
+  <div class="container container--normal">
+      <h2>Schedule</h2>
+      <h3>Thursday, March 22</h3>
+      <p>
+          <ul>
+          <li>4:00 PM: Registration and then low-key social activities</li>
+      </ul>
+      </p>
+      <h3>Friday, March 23</h3>
+      <p>
+          <ul>
+            <li>09:00 AM: Matthew Weier-O'Phinney</li>
+            <li>10:00 AM: Eryn O'Neill</li>
+            <li>11:00 AM: Moses Ngone</li>
+            <li>12:00 PM: Lunch and then open spaces until 5pm!</li>
+          </ul>
+      </p>
+      <h3>Saturday, March 24</h3>
+      <p>
+        <ul>
+          <li>09:00 AM: Lorna Mitchell</li>
+          <li>10:00 AM: Ed Finkler</li>
+          <li>11:00 AM: Sara Golemon</li>
+          <li>12:00 PM: Lunch and then open spaces!</li>
+          <li>05:00 PM: Birthday party for Chris!</li>
+        </ul>
+      </p>
+  </div>
+  <div class="container container--normal">
     <h2>Getting Here</h2>
 <p>The closest airport is <a href="http://www.flylondon.ca/">London International Airport</a>, a smaller regional airport that offers connections to larger airports, like <a href="https://torontopearson.com/">Toronto Pearson</a>. Either way you will need additional ground transportation to get to the venue. I recommend car rental or the use of services like <a href="https://reservation.robertq.com/airbus/">Robert Q</a>.</p>
 <p>Additional flight + ground transportation options are available from <a href="http://www.metroairport.com/">Detroit Metropolitan</a> or even <a href="http://www.buffaloairport.com/">Buffalo Niagara International Airport</a></p>
+  </div>
+  <div class="container container--normal">
     <h2>Speakers</h2>
     <p>I've selected <b>6 speakers</b> who I feel will push both your <b>PHP skills</b> and your <b>professional development</b>. So who is coming?</p>
     <h3>Ed Finkler</h3>

@@ -45,10 +45,10 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     environment in the afternoon. 
     </p>
     <p>
-    Your ticket is for <b>3 days</b> of the conference, running March 22-24, 2018. It <b>includes a room for two nights</b> at the venue, the beautiful
+    Your ticket <b>includes a room for two nights</b> at the venue, the beautiful
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in <b>Ingersoll, Ontario, Canada</b> (about 90 minutes west of Toronto).
     Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees. Additional nights at the hotel
-    are available if you need them, just let me know what you require.
+    are available if you need them, just let me know what you require. Tickets that do not include accomodation are available.
     </p>
   </div>
   <div class="container container--normal">

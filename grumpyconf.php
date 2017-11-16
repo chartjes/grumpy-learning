@@ -63,7 +63,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <p>
           <ul>
             <li>09:00 AM: Matthew Weier-O'Phinney</li>
-            <li>10:00 AM: Eryn O'Neill</li>
+            <li>10:00 AM: Eryn O'Neill -- <b>Leadership Beyond Titles</b></li>
             <li>11:00 AM: Moses Ngone</li>
             <li>12:00 PM: Lunch and then open spaces until 5pm!</li>
           </ul>
@@ -71,9 +71,9 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <h3>Saturday, March 24</h3>
       <p>
         <ul>
-          <li>09:00 AM: Lorna Mitchell</li>
-          <li>10:00 AM: Ed Finkler</li>
-          <li>11:00 AM: Sara Golemon</li>
+          <li>09:00 AM: Lorna Mitchell -- <b>Roadrip Through Database Country</b></li>
+          <li>10:00 AM: Ed Finkler -- <b>I'm Crazy And So Can You</b></li>
+          <li>11:00 AM: Sara Golemon -- <b>High Performance Developer Efficiency</b></li>
           <li>12:00 PM: Lunch and then open spaces!</li>
           <li>05:00 PM: Birthday party for Chris!</li>
         </ul>
@@ -129,6 +129,9 @@ skills") to succeed are <b>insightful and on-target</b>. When you combine that
             with her experiences as a <b>free-lance developer</b>, you'll quickly realize
 why I invited her to come and talk.
         </p>
+        <h4>Leadership Beyond Titles</h4>
+        <p>Do you want to have more say in technology decisions at your company? Do you want to motivate your team and build consensus around your ideas? Do you want to advance your career, make friends, and influence people? Well, my friend, then you need Leadership.</p>
+        <p>Wait, what? Despite what some people think, leadership isn't power bestowed on you by a title, and Directors, VP's, and Chief Whatever Officers don't have a monopoly on it. Rather, it's a set of skills that help you navigate, organize, and motivate groups--and anyone can learn them. We'll break down these skills into their component parts, and you'll walk away with a framework for everyday leadership, as well as some tangible tricks you can put into action right away.</p>
     <h3>Matthew Weier-O'Phinney</h3>
         <p><img height=240 width=240 src="images/mwop.jpeg" /></p>
         <p>From <b>divinity major at college</b> to "Supreme Allied Commander" of <b>Zend Framework</b>, Matthew is one

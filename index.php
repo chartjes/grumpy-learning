@@ -35,7 +35,7 @@
         <div class="package" id="test-driven-basic">
             <h2 align="center">
                 <a href="/grumpyconf.php">
-                   Tickets on sale right now<br>for GrumpyConf 2018 starting at CDN$649
+                   Tickets on sale right now<br>for GrumpyConf 2018<br>starting at CDN$649
                 </a>
             </h2>
         </div>

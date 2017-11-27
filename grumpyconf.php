@@ -62,7 +62,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <h3>Friday, March 23</h3>
       <p>
           <ul>
-            <li>09:00 AM: Matthew Weier-O'Phinney</li>
+            <li>09:00 AM: Chris Hartjes -- <b>An Oral History Of How I Became Grumpy</b></li>
             <li>10:00 AM: Eryn O'Neill -- <b>Leadership Beyond Titles</b></li>
             <li>11:00 AM: Moses Ngone</li>
             <li>12:00 PM: Lunch and then open spaces until 5pm!</li>
@@ -72,7 +72,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <p>
         <ul>
           <li>09:00 AM: Lorna Mitchell -- <b>Roadrip Through Database Country</b></li>
-          <li>10:00 AM: Ed Finkler -- <b>I'm Crazy And So Can You</b></li>
+          <li>10:00 AM: Matthew Weier-O'Phinney</li>
           <li>11:00 AM: Sara Golemon -- <b>High Performance Developer Efficiency</b></li>
           <li>12:00 PM: Lunch and then open spaces!</li>
           <li>05:00 PM: Birthday party for Chris!</li>
@@ -86,16 +86,12 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
   </div>
   <div class="container container--normal">
     <h2>Speakers</h2>
-    <p>I've selected <b>6 speakers</b> who I feel will push both your <b>PHP skills</b> and your <b>professional development</b>. So who is coming?</p>
-    <h3>Ed Finkler</h3>
-    <p><img height=240 width=240 src="images/ed_finkler.jpeg" /></p>
-    <p>You might know him through his work with <a href="https://osmihelp.org">Open Sourcing Mental Illness</a> or recording
-    a <a href="https://devhell.info">podcast</a> with me. He's also a <b>good developer</b> and an even <b>better communicator</b>.
-    </p>
-    <p>Sure, Ed is a close friend but his message in an <b>important one</b> to help you understand that <b>coding is about people</b>
-    more than it is about the technology</p>
-<h3>I'm Crazy And So Can You</h3>
-        <p>Ed discusses his lifelong struggles with mental illness, and how we can promote mental wellness in the developer community</p>
+    <p>I've selected <b>5 speakers</b> who I feel will push both your <b>PHP skills</b> and your <b>professional development</b>. So who is speaking?</p>
+    <h3<Chris Hartjes</h3>
+    <p><img height=240 width=240 src="https://pbs.twimg.com/profile_images/929036912194740224/Dhn21IOM_400x400.jpg"/></p>
+    <h4>An Oral History Of How I Became Grumpy</h4>
+    <p>In my almost twenty years as a professional programmer I’ve tried to guide my career using two phrases: “we’re not losers, we’re choosers” and “luck is the intersection of skill and opportunity.” Armed with this mindset I’ve been able to turn what started out as a job building a web site for a small company that sold CD’s to professional DJ’s into a very rewarding career that have given me some memorable experiences.</p>
+    <p>In this talk I’m going to share my journey with you and highlight the role that getting involved in open source software and community organization let me go from programming as a job to programming as a career. I’ll talk about my approach to skill building, job selection, and how being able to take advantage of what life presented me allowed me to be Grumpy and happy.</p>
     <h3>Moses Ngone</h3> 
     <p><img height=240 width=240 src="images/moses_ngone.jpeg" /></p>
     <p>There are some folks whom you come across online and you say to yourself

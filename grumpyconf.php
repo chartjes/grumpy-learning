@@ -72,7 +72,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <p>
         <ul>
           <li>09:00 AM: Lorna Mitchell -- <b>Roadrip Through Database Country</b></li>
-          <li>10:00 AM: Matthew Weier-O'Phinney</li>
+          <li>10:00 AM: Matthew Weier-O'Phinney -- <b>The Promise of Middleware</b></li>
           <li>11:00 AM: Sara Golemon -- <b>High Performance Developer Efficiency</b></li>
           <li>12:00 PM: Lunch and then open spaces!</li>
           <li>05:00 PM: Birthday party for Chris!</li>
@@ -135,6 +135,23 @@ why I invited her to come and talk.
         to get him to speak at my events, and I'm <b>grateful he accepted</b> my invitation this time.
         </p>
         <p>Matthew is also one of the lucky few that was inspired by my <b>4-day work week</b> strategy and made it work for himself!</p> 
+        <h4>The Promise of Middleware</h4>
+        <p>
+            Several years ago, a movement towards PHP microframeworks began, and largely
+            fell by the wayside. The main problem was interoperability: every framework
+            provided its own abstractions around HTTP messages, and the contracts around
+            dispatching code varied greatly.
+        </p>
+        <p>
+            In recent years, however, PHP has undergone a renaissance, in large part due to
+            the rise of standards and the ease of managing dependencies via Composer.
+            Middleware finally fulfills the promise of MicroPHP, in ways many never
+            envisioned.
+        </p>
+        <p>
+            Find out how middleware can simplify your development of applications, both
+            small and complex, and how else it can benefit your development and teams.
+        </p>
     <h3>Lorna Mitchell</h3>
         <p><img height=240 width=240 src="images/lornajane.jpeg" /></p>
         <p>The very first time I <b>saw Lorna speak</b> she did it with <b>no slides</b>, which blew my mind! She is also another speaker whom I have invited over the years to hop onto a plane and fly across the Atlantic to come to Canada and speak.</p>

@@ -28,16 +28,16 @@
         <p class="header__tagline">Learn to test like a grumpy programmer</p>
     </div>
 </header>
-
-<?php require './testimonials.php' ?>
 <main role="main">
     <div class="container container--normal">
-        <div class="package" id="test-driven-basic">
-            <h2 align="center">
-                <a href="/grumpyconf.php">
-                   Tickets on sale right now<br>for GrumpyConf 2018<br>starting at CDN$649
+        <div class="package" id="grumpyconf">
+            <img src="images/logo.png" class="u-image-pull-left" alt="Grumpy Learning Logo">
+            <h2 class="section-heading" id="#grumpyconf">GrumpyConf 2018</h2>
+            <p>A small, intimate conference designed to help you level up both your technical skills and personal skills. Featuring some of the most experienced talent from the PHP community.</p>
+                <a href="/grumpyconf.php" class="button package__button">
+                    <span class="package__button-text">Tickets starting from CDN$649</span>
+                    <span class="package__button-text">March 22-24, 2018</span>
                 </a>
-            </h2>
         </div>
     </div>
     <div class="container container--normal">
@@ -56,9 +56,13 @@
                 </ul>
             </p>
 <p>You need people skills to go along with all those great testing skills you've been building. Chris is here to help with those too!</p>
-            <a href="https://leanpub.com/test-driven" class="button package__button">
+            <a href="https://leanpub.com/test-driven" class="button package__button" target="_blank" rel="noopener noreferrer">
                 <span class="package__button-price">$9</span>
-                <span class="package__button-text">Buy Now Via LeanPub</span>
+                <span class="package__button-text">Ebook Via LeanPub</span>
+            </a>
+            <a href="http://www.lulu.com/shop/chris-hartjes/building-test-driven-developers/paperback/product-23474801.html" class="button package__button" target="_blank" rel="noopener noreferrer">
+                <span class="package__button-price">$11</span>
+                <span class="package__button-text">Paperback Via Lulu</span>
             </a>
         </div>
     <div class="container container--normal">
@@ -82,7 +86,7 @@
                 </ul>
             </p>
             <p>Chris has been watching and listening to people as they start their journey towards become test-driven developers. "Minimum Viable Tests" is designed to be your guide on the path to having well-tested, confidently-deployed PHP applications.</p>
-            <a href="https://leanpub.com/minimumviabletests" class="button package__button">
+            <a href="https://leanpub.com/minimumviabletests" class="button package__button" target="_blank" rel="noopener noreferrer">
                 <span class="package__button-price">$19</span>
                 <span class="package__button-text">Buy Now Via LeanPub</span>
             </a>
@@ -97,7 +101,7 @@
                 of examples but you <b>need some guidance</b> on how to use it's features.
             </p>
             <p>
-                I'm a long-time PHP developer who has been promoting testing practices for almost a decade. For almost a decade I have spoken at conferences about best practices for writing tests and been recognized as an expert on unit testing. Now, I want to help you learn to use PHPUnit to create tests that give you confidence that your code is on the right track.
+                I'm a long-time PHP developer who has been promoting testing practices since 2005. Now, I want to help you learn to use PHPUnit to create tests that give you confidence that your code is on the right track.
             </p>
             <p>You'll know exactly how to tackle your existing code. You'll learn how to drive new features with your tests. You'll write tests that run fast and keep you moving quickly. Here's what I cover:
                 <ul class="checkbox-list">
@@ -111,16 +115,16 @@
                 </ul>
             </p>
             <p>
-                My new ebook "The Grumpy Programmer's PHPUnit Cookbook" is a collection of tips and tricks for making PHPUnit do what you need it do in order to write tests for your code. With the information contained in this book you will get a jump start to make writing tests something you do effortlessly.
+                My book "The Grumpy Programmer's PHPUnit Cookbook" is a collection of tips and tricks for making PHPUnit do what you need it do in order to write tests for your code. With the information contained in this book you will get a jump start to make writing tests something you do effortlessly.
             </p>
-            <a href="https://leanpub.com/grumpy-phpunit" class="button package__button">
+            <a href="https://leanpub.com/grumpy-phpunit" class="button package__button" target="_blank" rel="noopener noreferrer">
                 <span class="package__button-price">$19</span>
                 <span class="package__button-text">Buy Now Via LeanPub</span>
             </a>
         </div>
         <div class="callout-box callout-box--spaced">
             <div class="callout-box__content-center">
-                <p>We have a mailing list that you can join that drops some grumpy knowledge in your inbox roughly once every two weeks. We hate spam as much as you do, so we pledge to never give your email address to any third parties.<br><br>
+                <p>We have a mailing list that you can join that drops some grumpy knowledge in your inbox on an irregular basis. We hate spam as much as you do, so we pledge to never give your email address to any third parties.<br><br>
                     <form action="http://grumpy-phpunit.us6.list-manage2.com/subscribe/post?u=161d0ed420649f1879e4985f1&amp;id=1a4c405c76" method="post" class="form-vertical" target="_blank">
                         <div class="form-vertical__row">
                             <label for="name" class="form-vertical__label">Email</label>
@@ -148,7 +152,7 @@
                   In 2003 I was part of a application launch so horrible I became determined to find a way to avoid that. Along the way
                   I discovered testing techniques and haven't shut up about them since.
               </p>
-              <p>I live in Milton, Ontario, Canada along with my long-suffering wife and two very patient daughters.</p>
+              <p>I live in the snowy wilds of Southwestern Ontario, Canada, along with my long-suffering wife and the one child who didn't flee to university the first chance she got</p>
           </div>
       </div>
   </main>

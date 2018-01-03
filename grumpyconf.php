@@ -33,23 +33,22 @@
   <main role-"main">
   <div class="container container--normal">
         <h2>High Performance PHP and Professional Development</h2>
-    <p>
-    50 attendees<br>
-    6 high-impact speakers from the PHP world<br>
-    </p>
     <p>I helped run <a href="https://truenorthphp.ca"><b>True North PHP</b></a> for five years, and now I wanted to do <b>something different</b>. I
 want to use my <b>conference organizing experience</b> to do something <b>unique</b> for you.</p>
     <p>
-    <b>GrumpyConf 2018</b> is your chance to hear from some of the PHP community's most <b>impactful speakers</b> in the morning,
+    <b>GrumpyConf 2018</b> is your chance to hear from some of the <b>PHP community's most impactful speakers</b> in the morning,
     and then <b>interact with them</b> and your fellow attendees in an <b><a href="http://www.mindviewinc.com/Conferences/OpenSpaces.html">open spaces</a></b>
-    environment in the afternoon. 
+    environment in the afternoon. This event will be small and focused on <b>developing your technical and personal skills</b>. 
     </p>
     <p>
     Your ticket <b>includes a room for two nights</b> at the venue, the beautiful
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in <b>Ingersoll, Ontario, Canada</b> (about 90 minutes west of Toronto).
-    Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees. Additional nights at the hotel
-    are available if you need them, just let me know what you require. Tickets that do not include accomodation are available.
+    Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees. <b>Additional nights at the hotel
+    are available</b> if you need them, just let me know what you require. Tickets that do not include accomodation are available.
     </p>
+    <p>Each of the <b>available experts</b> has a specific area of expertise, and you will have the opportunity to <b>discuss your real-world situations</b>
+    in small groups with them. I want you to have the type of <b>access that is difficult to get</b> at traditional conferences. If you've ever heard
+    of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
   </div>
   <div class="container container--normal">
       <h2>Schedule</h2>
@@ -62,7 +61,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <h3>Friday, March 23</h3>
       <p>
           <ul>
-            <li>09:00 AM: Chris Hartjes -- <b>An Oral History Of How I Became Grumpy</b></li>
+            <li>09:30 AM: Chris Hartjes -- <b>Event kick-off</b></li>
             <li>10:00 AM: Eryn O'Neill -- <b>Leadership Beyond Titles</b></li>
             <li>11:00 AM: Moses Ngone</li>
             <li>12:00 PM: Lunch and then open spaces until 5pm!</li>
@@ -71,7 +70,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <h3>Saturday, March 24</h3>
       <p>
         <ul>
-          <li>09:00 AM: Lorna Mitchell -- <b>Roadrip Through Database Country</b></li>
+          <li>09:00 AM: Lorna Mitchell -- <b>Roadtrip Through Database Country</b></li>
           <li>10:00 AM: Matthew Weier-O'Phinney -- <b>The Promise of Middleware</b></li>
           <li>11:00 AM: Sara Golemon -- <b>High Performance Developer Efficiency</b></li>
           <li>12:00 PM: Lunch and then open spaces!</li>
@@ -87,11 +86,6 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
   <div class="container container--normal">
     <h2>Speakers</h2>
     <p>I've selected <b>5 speakers</b> who I feel will push both your <b>PHP skills</b> and your <b>professional development</b>. So who is speaking?</p>
-    <h3<Chris Hartjes</h3>
-    <p><img height=240 width=240 src="https://pbs.twimg.com/profile_images/929036912194740224/Dhn21IOM_400x400.jpg"/></p>
-    <h4>An Oral History Of How I Became Grumpy</h4>
-    <p>In my almost twenty years as a professional programmer I’ve tried to guide my career using two phrases: “we’re not losers, we’re choosers” and “luck is the intersection of skill and opportunity.” Armed with this mindset I’ve been able to turn what started out as a job building a web site for a small company that sold CD’s to professional DJ’s into a very rewarding career that have given me some memorable experiences.</p>
-    <p>In this talk I’m going to share my journey with you and highlight the role that getting involved in open source software and community organization let me go from programming as a job to programming as a career. I’ll talk about my approach to skill building, job selection, and how being able to take advantage of what life presented me allowed me to be Grumpy and happy.</p>
     <h3>Moses Ngone</h3> 
     <p><img height=240 width=240 src="images/moses_ngone.jpeg" /></p>
     <p>There are some folks whom you come across online and you say to yourself
@@ -161,7 +155,7 @@ why I invited her to come and talk.
 </p>
     <h2>Conference Code Of Conduct</h2>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
-    Chris strongly believes in a safe and supportive environment for all attendees.</p>
+    I strongly believes in a safe and supportive environment for all attendees.</p>
     <tito-widget event="grumpyconf/2018"></tito-widget>
     <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options.</p>
   </div>

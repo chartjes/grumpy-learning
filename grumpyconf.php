@@ -49,6 +49,15 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     <p>Each of the <b>available experts</b> has a specific area of expertise, and you will have the opportunity to <b>discuss your real-world situations</b>
     in small groups with them. I want you to have the type of <b>access that is difficult to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
+      <a href="https://ti.to/grumpyconf/2018/with/cfftnv3m-i4" class="button package__button" target="_blank" rel="noopener noreferrer">
+          <span class="package__button-price">CDN$899</span>
+          <span class="package__button-text">Event + 2 nights</span>
+      </a>
+      <br>
+      <a href="https://ti.to/grumpyconf/2018/with/ldjmhvhaung" class="button package__button" target="_blank" rel="noopener noreferrer">
+          <span class="package__button-price">CDN$649</span>
+          <span class="package__button-text">Event only</span>
+      </a>
   </div>
   <div class="container container--normal">
       <h2>Schedule</h2>
@@ -156,7 +165,15 @@ why I invited her to come and talk.
     <h2>Conference Code Of Conduct</h2>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     I strongly believes in a safe and supportive environment for all attendees.</p>
-    <tito-widget event="grumpyconf/2018"></tito-widget>
+        <a href="https://ti.to/grumpyconf/2018/with/cfftnv3m-i4" class="button package__button" target="_blank" rel="noopener noreferrer">
+            <span class="package__button-price">CDN$899</span>
+            <span class="package__button-text">Event + 2 nights</span>
+        </a>
+      <br>
+      <a href="https://ti.to/grumpyconf/2018/with/ldjmhvhaung" class="button package__button" target="_blank" rel="noopener noreferrer">
+          <span class="package__button-price">CDN$649</span>
+          <span class="package__button-text">Event only</span>
+      </a>
     <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options.</p>
   </div>
   </main>

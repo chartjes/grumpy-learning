@@ -73,7 +73,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
           <ul>
             <li>09:30 AM: Chris Hartjes -- <b>Event kick-off</b></li>
             <li>10:00 AM: Eryn O'Neill -- <b>Leadership Beyond Titles</b></li>
-            <li>11:00 AM: Moses Ngone</li>
+            <li>11:00 AM: Moses Ngone -- <b>Developing Beyond The Web</li>
             <li>12:00 PM: Lunch and then open spaces until 5pm!</li>
           </ul>
       </p>

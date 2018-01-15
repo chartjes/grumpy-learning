@@ -49,6 +49,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     <p>Each of the <b>available experts</b> has a specific area of expertise, and you will have the opportunity to <b>discuss your real-world situations</b>
     in small groups with them. I want you to have the type of <b>access that is difficult to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
+      <p>Thank you to <a href="https://future500.nl/" target="_blank" rel="noopener noreferrer">Future500</a> for sponsoring this year's event</p>
       <a href="https://ti.to/grumpyconf/2018/with/cfftnv3m-i4" class="button package__button" target="_blank" rel="noopener noreferrer">
           <span class="package__button-price">CDN$899</span>
           <span class="package__button-text">Event + 2 nights</span>
@@ -105,6 +106,8 @@ Moses to come and talk.</p>
 <b>interesting (at least to me) projects</b> and his experiences will be
 invaluable to someone looking to <b>build a career</b> full of opportunities to
 work on things that <b>interact with the real world</b>.</p>
+      <h4>Developing Beyond The Web</h4>
+      <p>The fast development of "smart" devices and their demand has opened up new avenues for the web developer. This session will look at the new opportunities, challenges and how one can leverage skills, tools and processes already available to the modern day web developer. </p>
     <h3>Sara Golemon</h3>
     <p><img height=240 width=240 src="images/sara_golemon.jpeg" /></p>
     <p>She's part of the <b>core PHP team</b>, the <b>release manager</b> for PHP 7.2 and worked on <b>HHVM and Hack</b>.  She also

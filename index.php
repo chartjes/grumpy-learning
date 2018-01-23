@@ -34,6 +34,7 @@
             <img src="images/logo.png" class="u-image-pull-left" alt="Grumpy Learning Logo">
             <h2 class="section-heading" id="#grumpyconf">GrumpyConf 2018</h2>
             <p>A small, intimate conference designed to help you level up both your technical skills and personal skills. Featuring some of the most experienced talent from the PHP community.</p>
+            <p><b>Sales for tickets that included a room close on February 21st, 2018</b></p>
                 <a href="/grumpyconf.php" class="button package__button" rel="noopener noreferrer">
                     <span class="package__button-text">Tickets starting from CDN$649</span>
                     <span class="package__button-text">March 22-24, 2018</span>

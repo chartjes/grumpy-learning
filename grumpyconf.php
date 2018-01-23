@@ -33,6 +33,7 @@
   <main role-"main">
   <div class="container container--normal">
         <h2>High Performance PHP and Professional Development</h2>
+      <p><b>Sales on tickets that include a room close on February 21st, 2018</b></p>
     <p>I helped run <a href="https://truenorthphp.ca"><b>True North PHP</b></a> for five years, and now I wanted to do <b>something different</b>. I
 want to use my <b>conference organizing experience</b> to do something <b>unique</b> for you.</p>
     <p>
@@ -50,6 +51,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     in small groups with them. I want you to have the type of <b>access that is difficult to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
       <p>Thank you to <a href="https://future500.nl/" target="_blank" rel="noopener noreferrer">Future500</a> for sponsoring this year's event</p>
+      <p><b>Sales on tickets that include a room close February 21, 2018</b></p>
       <a href="https://ti.to/grumpyconf/2018/with/cfftnv3m-i4" class="button package__button" target="_blank" rel="noopener noreferrer">
           <span class="package__button-price">CDN$899</span>
           <span class="package__button-text">Event + 2 nights</span>

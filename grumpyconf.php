@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <title>Learn Like A Grumpy Programmer</title>
@@ -33,7 +32,6 @@
   <main role-"main">
   <div class="container container--normal">
         <h2>High Performance PHP and Professional Development</h2>
-      <p><b>Sales on tickets that include a room close on February 21st, 2018</b></p>
     <p>I helped run <a href="https://truenorthphp.ca"><b>True North PHP</b></a> for five years, and now I wanted to do <b>something different</b>. I
 want to use my <b>conference organizing experience</b> to do something <b>unique</b> for you.</p>
     <p>
@@ -42,21 +40,16 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
     environment in the afternoon. This event will be small and focused on <b>developing your technical and personal skills</b>. 
     </p>
     <p>
-    Your ticket <b>includes a room for two nights</b> at the venue, the beautiful
+    The venue is the beautiful
     <a href="http://www.elmhurstinn.com/">Elm Hurst Inn</a> in <b>Ingersoll, Ontario, Canada</b> (about 90 minutes west of Toronto).
     Breakfast is provided for guests staying overnight at the Inn, <b>lunch and snacks</b> will be provided to attendees. <b>Additional nights at the hotel
-    are available</b> if you need them, just let me know what you require. Tickets that do not include accomodation are available.
+    are available</b> if you need them, just let me know what you require. At this point in time we only have tickets that
+do not include accomodation available.
     </p>
     <p>Each of the <b>available experts</b> has a specific area of expertise, and you will have the opportunity to <b>discuss your real-world situations</b>
     in small groups with them. I want you to have the type of <b>access that is difficult to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
       <p>Thank you to <a href="https://future500.nl/" target="_blank" rel="noopener noreferrer">Future500</a> for sponsoring this year's event</p>
-      <p><b>Sales on tickets that include a room close February 21, 2018</b></p>
-      <a href="https://ti.to/grumpyconf/2018/with/cfftnv3m-i4" class="button package__button" target="_blank" rel="noopener noreferrer">
-          <span class="package__button-price">CDN$899</span>
-          <span class="package__button-text">Event + 2 nights</span>
-      </a>
-      <br>
       <a href="https://ti.to/grumpyconf/2018/with/ldjmhvhaung" class="button package__button" target="_blank" rel="noopener noreferrer">
           <span class="package__button-price">CDN$649</span>
           <span class="package__button-text">Event only</span>
@@ -74,7 +67,7 @@ want to use my <b>conference organizing experience</b> to do something <b>unique
       <p>
           <ul>
             <li>09:30 AM: Chris Hartjes -- <b>Event kick-off</b></li>
-            <li>10:00 AM: Eryn O'Neill -- <b>Leadership Beyond Titles</b></li>
+            <li>10:00 AM: Elizabeth Marie Smith -- <b>PHP architecture and SAPIs</b></li>
             <li>11:00 AM: Moses Ngone -- <b>Developing Beyond The Web</li>
             <li>12:00 PM: Lunch and then open spaces until 5pm!</li>
           </ul>
@@ -121,21 +114,12 @@ work on things that <b>interact with the real world</b>.</p>
 HackLang still leads the way in language innovation and developer
 efficiency.  In this presentation, Sara will introduce you to the the
 PHP that might have been and still can be.</p>
-    <h3>Eryn O'Neill</h3>
-        <p><img height=240 width=240 src="images/eryn_oneill.jpeg" /></p>
-        <p>I've been speaking at conferences since 2005 and I've seen several
-        people <b>go from attendee to nervous speaker to in-demand speaker</b>. Eryn is
-        one of those people!
-        </p>
-        <p>Her <b>observations</b> about the <b>complementary skills</b> a
-        programmer needs (what a lot of people derogatorily refer to as "soft
-skills") to succeed are <b>insightful and on-target</b>. When you combine that
-            with her experiences as a <b>free-lance developer</b>, you'll quickly realize
-why I invited her to come and talk.
-        </p>
-        <h4>Leadership Beyond Titles</h4>
-        <p>Do you want to have more say in technology decisions at your company? Do you want to motivate your team and build consensus around your ideas? Do you want to advance your career, make friends, and influence people? Well, my friend, then you need Leadership.</p>
-        <p>Wait, what? Despite what some people think, leadership isn't power bestowed on you by a title, and Directors, VP's, and Chief Whatever Officers don't have a monopoly on it. Rather, it's a set of skills that help you navigate, organize, and motivate groups--and anyone can learn them. We'll break down these skills into their component parts, and you'll walk away with a framework for everyday leadership, as well as some tangible tricks you can put into action right away.</p>
+    <h3>Elizabeth Marie Smith</h3>
+        <p><img height=240 width=240 src="images/elizabethsmith.jpg" /></p>
+      <p>Elizabeth is the person who <b>got me into mentoring</b> with her infectious energy surrounding <b>teaching people</b></p>
+      <p>She is one of the few people putting a lot of work into making <b>PHP run on Windows</b> and has probably forgotten more
+      about the internals of PHP than I will ever know. I always come away from her talks saying to myself <b>"wow, I knew way less about this than I thought"</b></p>
+
     <h3>Matthew Weier-O'Phinney</h3>
         <p><img height=240 width=240 src="images/mwop.jpeg" /></p>
         <p>From <b>divinity major at college</b> to "Supreme Allied Commander" of <b>Zend Framework</b>, Matthew is one
@@ -169,17 +153,11 @@ why I invited her to come and talk.
 </p>
     <h2>Conference Code Of Conduct</h2>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
-    I strongly believes in a safe and supportive environment for all attendees.</p>
-        <a href="https://ti.to/grumpyconf/2018/with/cfftnv3m-i4" class="button package__button" target="_blank" rel="noopener noreferrer">
-            <span class="package__button-price">CDN$899</span>
-            <span class="package__button-text">Event + 2 nights</span>
-        </a>
-      <br>
+    I strongly believe in a safe and supportive environment for all attendees.</p>
       <a href="https://ti.to/grumpyconf/2018/with/ldjmhvhaung" class="button package__button" target="_blank" rel="noopener noreferrer">
           <span class="package__button-price">CDN$649</span>
           <span class="package__button-text">Event only</span>
       </a>
-    <p>Grumpy Learning will be in touch with you once you've purchased a ticket to go over the room options.</p>
   </div>
   </main>
   <footer class="footer">

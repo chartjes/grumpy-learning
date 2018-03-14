@@ -36,7 +36,7 @@
 want to use my <b>conference organizing experience</b> to do something <b>unique</b> for you.</p>
     <p>
     <b>GrumpyConf 2018</b> is your chance to hear from some of the <b>PHP community's most impactful speakers</b> in the morning,
-    and then <b>interact with them</b> and your fellow attendees in an <b><a href="http://www.mindviewinc.com/Conferences/OpenSpaces.html">open spaces</a></b>
+    and then <b>interact with them</b> and your fellow attendees in an <b><a href="http://wintertechforum.com/open-spaces/">open spaces</a></b>
     environment in the afternoon. This event will be small and focused on <b>developing your technical and personal skills</b>. 
     </p>
     <p>

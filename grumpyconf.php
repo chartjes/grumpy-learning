@@ -4,7 +4,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="./assets/css/app.css">
-<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 <script type="text/javascript">
     WebFontConfig = {
         google: { families: [ 'Asap:400italic,700italic:latin', 'Source+Sans+Pro:400,300,600,200,300italic,400italic,700:latin' ] }
@@ -20,7 +19,6 @@
     })();
 </script>
 <!-- place this in your head tag -->
-<script src='https://js.tito.io/v1' async></script>
 </head>
   <body>
   <header class="header header--centered">

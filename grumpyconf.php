@@ -50,10 +50,6 @@ do not include accomodation available.
     in small groups with them. I want you to have the type of <b>access that is difficult to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
       <p>Thank you to <a href="https://future500.nl/" target="_blank" rel="noopener noreferrer">Future500</a> for sponsoring this year's event</p>
-      <a href="https://ti.to/grumpyconf/2018/with/ldjmhvhaung" class="button package__button" target="_blank" rel="noopener noreferrer">
-          <span class="package__button-price">CDN$649</span>
-          <span class="package__button-text">Event only</span>
-      </a>
   </div>
   <div class="container container--normal">
       <h2>Schedule</h2>
@@ -154,10 +150,6 @@ PHP that might have been and still can be.</p>
     <h2>Conference Code Of Conduct</h2>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket. 
     I strongly believe in a safe and supportive environment for all attendees.</p>
-      <a href="https://ti.to/grumpyconf/2018/with/ldjmhvhaung" class="button package__button" target="_blank" rel="noopener noreferrer">
-          <span class="package__button-price">CDN$649</span>
-          <span class="package__button-text">Event only</span>
-      </a>
   </div>
   </main>
   <footer class="footer">

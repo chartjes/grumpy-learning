@@ -35,7 +35,6 @@
             <h2 class="section-heading" id="#grumpyconf">GrumpyConf 2018</h2>
             <p>A small, intimate conference designed to help you level up both your technical skills and personal skills. Featuring some of the most experienced talent from the PHP community.</p>
                 <a href="/grumpyconf.php" class="button package__button" rel="noopener noreferrer">
-                    <span class="package__button-text">Tickets are CDN$649</span>
                     <span class="package__button-text">March 22-24, 2018</span>
                 </a>
         </div>

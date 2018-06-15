@@ -53,7 +53,7 @@
             </p>
 <p>You need people skills to go along with all those great testing skills you've been building. Chris is here to help with those too!</p>
             <a href="https://leanpub.com/test-driven" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$5 until June 1st</span>
+                <span class="package__button-price">$9</span>
                 <span class="package__button-text">Ebook from LeanPub</span>
             </a>
             <a href="https://www.lulu.com/shop/chris-hartjes/building-test-driven-developers/paperback/product-23474801.html" class="button package__button" target="_blank" rel="noopener noreferrer">
@@ -83,7 +83,7 @@
             </p>
             <p>Chris has been watching and listening to people as they start their journey towards become test-driven developers. "Minimum Viable Tests" is designed to be your guide on the path to having well-tested, confidently-deployed PHP applications.</p>
             <a href="https://leanpub.com/minimumviabletests" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$10 until June 1st</span>
+                <span class="package__button-price">$19</span>
                 <span class="package__button-text">Ebook from LeanPub</span>
             </a>
             <a href="https://www.lulu.com/shop/chris-hartjes/minimum-viable-tests/paperback/product-23475041.html" class="button package__button" target="_blank" rel="noopener noreferrer">
@@ -118,7 +118,7 @@
                 My book "The Grumpy Programmer's PHPUnit Cookbook" is a collection of tips and tricks for making PHPUnit do what you need it do in order to write tests for your code. With the information contained in this book you will get a jump start to make writing tests something you do effortlessly.
             </p>
             <a href="https://leanpub.com/grumpy-phpunit" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$10 until June 1st</span>
+                <span class="package__button-price">$19</span>
                 <span class="package__button-text">Ebook from LeanPub</span>
             </a>
             <a href="https://www.lulu.com/shop/chris-hartjes/the-grumpy-programmers-phpunit-cookbook/paperback/product-23475130.html" class="button package__button" target="_blank" rel="noopener noreferrer">

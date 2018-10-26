@@ -31,9 +31,9 @@
 <main role="main">
     <div class="container container--normal">
         <div class="package" id="grumpyconf">
-            <img src="images/logo.png" class="u-image-pull-left" alt="Grumpy Learning Logo">
-            <h2 class="section-heading" id="#signedcopies">Signed Copies Of My Books</h2>
-            <p>I do offer printed copies of all my books. If you want a signed one, it will be double the regular cost, includes shipping world wide. Contact me if you are looking for one.</p>
+            <img src="images/gl-logo-350.jpg" class="u-image-pull-left" alt="Grumpy Learning Logo">
+            <h2 class="section-heading">GrumpyConf is back for 2019!</h2>
+            <p>Find details on the 2019 event <a href="grumpyconf2019.php">here</a></p>
         </div>
     </div>
     <div class="container container--normal">

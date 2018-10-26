@@ -44,7 +44,7 @@
     <p>Each of the <b>talented speakers</b> has a specific area of expertise, and you will have the opportunity to <b>discuss your real-world situations</b>
     in small groups with them. I want you to have the type of <b>access that is almost impossible to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
-      <p><tito-widget event="grumpyconf/grumpyconf-2019"></tito-widget></p>
+      <p>For details on tickets and pricing, please visit our page at <a href="https://ti.to/grumpyconf/grumpyconf-2019">Ti.to</a></p>
   </div>
   <div class="container container--normal">
       <h2>Schedule</h2>

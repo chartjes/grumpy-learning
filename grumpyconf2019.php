@@ -78,7 +78,7 @@
   </div>
   <div class="container container--normal">
     <h2>Speakers</h2>
-    <p>I've selected <b>4 speakers</b> who I feel have a combination of <b>technical and personal skills</b> that can  So who is speaking?</p>
+    <p>I've selected <b>4 speakers</b> who I feel have a combination of <b>technical and personal skills</b> that can definitely help you advance from programming as a job to programming as a career. So who is speaking?</p>
       <h3>Elizabeth Marie Smith</h3>
       <p><img height=240 width=240 src="images/elizabethsmith.jpg" /></p>
       <p>Elizabeth is the person who <b>got me into mentoring</b> with her infectious energy surrounding <b>teaching people</b></p>

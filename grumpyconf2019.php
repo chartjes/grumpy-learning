@@ -44,7 +44,7 @@
     <p>Each of the <b>talented speakers</b> has a specific area of expertise, and you will have the opportunity to <b>discuss your real-world situations</b>
     in small groups with them. I want you to have the type of <b>access that is almost impossible to get</b> at traditional conferences. If you've ever heard
     of people talk about the "hallway track" at events, well, this entire event is like <b>one big "hallway track"</b></p>
-      <p>For details on tickets and pricing, please visit our page at <a href="https://ti.to/grumpyconf/grumpyconf-2019">Ti.to</a></p>
+      <p><a href="https://ti.to/grumpyconf/grumpyconf-2019" class="button package__button" target="_new"><span class="package_button-text">Click here for details on tickets and pricing</a></p>
   </div>
   <div class="container container--normal">
       <h2>Schedule</h2>
@@ -87,7 +87,7 @@
     <h3>Mark Story</h3>
     <p><img height=240 width=240 src="images/mark-story-2018.jpg" /></p>
       <p>
-          I've known Mark for quite a while through my experiences with the <b>CakePHP framework</b>, where Mark is the lead developer.
+          I've known Mark for quite a while through my experiences with the <b>CakePHP framework</b>, where Mark is the <b>lead developer</b>.
           Mark is a "local" (living in the Greater Toronto Area) and is undefeated against me in games of Magic The Gathering.
       </p>
       <h4>So you want to run an open source project?</h4>
@@ -111,8 +111,9 @@
     <h3>Marco Pivetta</h3>
         <p><img height=240 width=240 src="images/marco-pivetta.jpg" /></p>
       <p>I worked with Marco as part of a <b>developer co-op</b> and learned just how skilled and talented he really is. He is a
-      <b>contributor to Doctrine and Zend Framework</b> and cares about <b>code quality, maintainability, and testing<b></b> in a way that few other
+      <b>contributor to Doctrine and Zend Framework</b> and cares about <b>code quality, maintainability, and testing</b> in a way that few other
       people I have come across exhibit.</p>
+      <p><a href="https://ti.to/grumpyconf/grumpyconf-2019" class="button package__button" target="_new"><span class="package_button-text">Click here for details on tickets and pricing</a></p>
     <h2>Conference Code Of Conduct</h2>
     <p>Please carefully read the conference's <a href="http://confcodeofconduct.com/">Code of Conduct</a> before purchasing a ticket.
     I strongly believe in a safe and supportive environment for all attendees.</p>

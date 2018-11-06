@@ -25,15 +25,16 @@
 <header class="header header--centered">
     <div class="container container--normal">
         <h1 class="header__title">Grumpy Learning</h1>
+        <img src="images/gl-logo-350.jpg" alt="Grumpy Learning Logo">
         <p class="header__tagline">Learn to test like a grumpy programmer</p>
     </div>
 </header>
 <main role="main">
     <div class="container container--normal">
         <div class="package" id="grumpyconf">
-            <img src="images/gl-logo-350.jpg" class="u-image-pull-left" alt="Grumpy Learning Logo">
-            <h2 class="section-heading">GrumpyConf is back for 2019!</h2>
-            <p>Find details on the 2019 event <a href="grumpyconf2019.php">here</a></p>
+            <a href="grumpyconf2019.php" class="button package__button" target="_blank" rel="noopener noreferrer">
+                <span class="package__button-text">GrumpyConf 2019!<br/>Click here for more details</span>
+            </a>
         </div>
     </div>
     <div class="container container--normal">

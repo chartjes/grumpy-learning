@@ -36,6 +36,13 @@
                 <span class="package__button-text">GrumpyConf 2019!<br/>Click here for more details</span>
             </a>
         </div>
+        <div class="package" id="grumpyblocks">
+            <a href="https://leanpub.com/b/grumpyblocks" class="button package__button" target="_blank" rel="noopener noreferrer">
+                <span class="package__button-price">$19</span>
+                <span class="package__button-text">Testing Building Blocks bundle from LeanPub</span>
+            </a>
+        </div>
+
     </div>
     <div class="container container--normal">
         <div class="package" id="test-driven-basic">

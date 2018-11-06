@@ -12,7 +12,7 @@
   <header class="header header--centered">
   <div class="container container--normal">
       <h1 class="header__title">GrumpyConf 2019</h1>
-      <p class="header__tagline"><b>March 22-23, 2018</b> -- Learn like a grumpy programmer</p>
+      <p class="header__tagline"><b>March 22-23, 2019</b> -- Learn like a Grumpy Programmer</p>
   </div>
   </header>
   <main role-"main">
@@ -105,6 +105,9 @@
         <p><img height=240 width=240 src="images/gemma-anible.jpg" /></p>
       <p>Gemma works from the <b>fjords of Norway</b> and is going to <b>share her experiences</b> with something she did TWICE that makes a lot of developers lose sleep: <b>migrating
           your code to newer versions of a PHP framework</b></p>
+          <h4>Migrations: fail to plan? Plan to Fail</h4>
+          <p>You lovingly crafted your snazzy PHP application on a bespoke microframework--that hasn't been touched in four years. Or it's been touched, but only to add "This project is looking for a maintainer" to the readme. Or the maintainer doesn't have time to fix your bugs, and you don't have time to maintain a fork. Whatever the reason, your app needs a new home. Where do you start? How do you progress without halting development in other areas? What are the pitfalls, and what are the shortcuts? In this talk, we'll examine two real-world PHP framework migrations. We'll cover the reasons and constraints behind each move, the mechanics of each migration, and what worked well (or didn't). You'll leave with a set of questions to ask about your own migration plan, and practical tips for getting it done.
+          </p>
     <h3>Marco Pivetta</h3>
         <p><img height=240 width=240 src="images/marco-pivetta.jpg" /></p>
       <p>I worked with Marco as part of a <b>developer co-op</b> and learned just how skilled and talented he really is. He is a

@@ -19,7 +19,7 @@
   <div class="container container--normal">
         <h2>High Performance PHP and Professional Development</h2>
       <p><b>GrumpyConf is back for 2019!</b></p>
-      <h5>You can see details about last year's event <a href="grumpyconf2018.php">here</a></h5>
+      <h5>You can see details about GrumpyConf 2018 <a href="grumpyconf2018.php">here</a></h5>
       <p>
           Back for another edition, GrumpyConf 2019 is your opportunity to listen to some of the <b>PHP community's best speakers</b>
           before lunch and then learn from them and other attendees via <b><a href="http://wintertechforum.com/open-spaces/">open spaces</a></b>

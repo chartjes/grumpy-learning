@@ -1,5 +1,6 @@
+<?php include 'perch/runtime.php'; ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8" />
 <title>Learn To Test Like A Grumpy Programmer</title>
@@ -31,109 +32,12 @@
 </header>
 <main role="main">
     <div class="container container--normal">
-        <div class="package" id="grumpyconf">
-            <a href="grumpyconf2019.php" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-text">GrumpyConf 2019!<br/>Click here for more details</span>
-            </a>
-        </div>
-        <div class="package" id="grumpyblocks">
-            <a href="https://leanpub.com/b/grumpyblocks" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$19</span>
-                <span class="package__button-text">Testing Building Blocks bundle from LeanPub</span>
-            </a>
-        </div>
-
+        <?php perch_content('promo')  ?>
     </div>
     <div class="container container--normal">
-        <div class="package" id="test-driven-basic">
-            <a href="https://leanpub.com/test-driven"><img src="images/test-driven.jpg" class="u-image-pull-left" alt="Cover for Building Test-Driven Developers"/></a>
-            <h2 class="section-heading" id="#testdriven">Building Test-Driven Developers</h2>
-	<p>Long-time PHP testing advocate Chris Hartjes takes a look at one of the least-understood parts of testing computer software -- managing the expectations of people. In this book Chris draws on his experience of over a decade of helping developers build the skills needed to become good at testing and talks about how tests are written by people, not machines. His views on what to do when there are no tests but you want some, or what to do with a test suite nobody likes will challenge your thoughts on what testing is really about.</p>
-            <p>"Building Test-Driven Developers" covers: 
-<ul class="checkbox-list">
-                    <li class="checkbox-list__item">What is a "testing culture"</li>
-                    <li class="checkbox-list__item">Handling things when there are no tests</li>
-                    <li class="checkbox-list__item">Why testing should be "just part of the job"</li>
-                    <li class="checkbox-list__item">Dealing with tests nobody runs</li>
-                    <li class="checkbox-list__item">Does "Chicago vs. London" really matter?</li>
-                    <li class="checkbox-list__item">Dealing with difficult people</li>
-                </ul>
-            </p>
-<p>You need people skills to go along with all those great testing skills you've been building. Chris is here to help with those too!</p>
-            <a href="https://leanpub.com/test-driven" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$9</span>
-                <span class="package__button-text">Ebook from LeanPub</span>
-            </a>
-            <a href="https://www.lulu.com/shop/chris-hartjes/building-test-driven-developers/paperback/product-23474801.html" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$11</span>
-                <span class="package__button-text">Paperback from Lulu</span>
-            </a>
-        </div>
+        <?php perch_content('products') ?>
+    </div>
     <div class="container container--normal">
-        <div class="package" id="mvt-basic">
-            <a href="https://leanpub.com/minimumviabletests"><img src="images/mvt-title-page-web.jpg" class="u-image-pull-left" alt="Cover for Minimum Viable Tests"/></a>
-            <h2 class="section-heading" id="#mvt">Minimum Viable Tests</h2>
-            <p>You've been doing PHP development for a while but you find yourself constantly battling bugs, finding it hard to integrate bits of code together, and staying late to do deployments. You know there is a better way through test-driven development but you have no idea where to start.</p>
-            <p>You imagine yourself sitting down with an experienced developer -- just you and them, steadily working through problems and learning how to use test-driven development to design the API's and interfaces for your code while making sure nothing leaves development until you're 100% sure it's working.</p>
-            <p>In "Minimum Viable Tests" long-time PHP testing evangelist Chris Hartjes goes over what his experiences lead him to believe are the basic concepts surrounding test-driven development. You'll learn about:
-                <ul class="checkbox-list">
-                    <li class="checkbox-list__item">Chris' concept of "metatesting"</li>
-                    <li class="checkbox-list__item">The basics of what PHPUnit is and how it works</li>
-                    <li class="checkbox-list__item">The role of tests in the development process</li>
-                    <li class="checkbox-list__item">Effective use of test doubles</li>
-                    <li class="checkbox-list__item">Understanding how to mimic your application's environment via bootstrapping</li>
-                    <li class="checkbox-list__item">Writing wrappers around web API calls to make testing easier</li>
-                    <li class="checkbox-list__item">How fixtures and data providers help simplify your tests both today and tomorrow</li>
-                    <li class="checkbox-list__item">When you should use (and not abuse) monkey-patching tools</li>
-                    <li class="checkbox-list__item">The Arrange-Act-Assert test-writing strategy</li>
-                    <li class="checkbox-list__item">How to refactor existing tests</li>
-                </ul>
-            </p>
-            <p>Chris has been watching and listening to people as they start their journey towards become test-driven developers. "Minimum Viable Tests" is designed to be your guide on the path to having well-tested, confidently-deployed PHP applications.</p>
-            <a href="https://leanpub.com/minimumviabletests" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$19</span>
-                <span class="package__button-text">Ebook from LeanPub</span>
-            </a>
-            <a href="https://www.lulu.com/shop/chris-hartjes/minimum-viable-tests/paperback/product-23475041.html" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$23</span>
-                <span class="package__button-text">Paperback from Lulu</span>
-            </a>
-        </div>
-        <div class="package" id="phpunit-cookbook-basic">
-            <a href="https://leanpub.com/grumpy-phpunit"><img src="images/grumpy-phpunit-title.png" class="u-image-pull-left" alt="Cover for Minimum Viable Tests"/></a>
-            <h2 class="section-heading" id="#phpunitcookbook">The Grumpy Programmer's PHPUnit Cookbook</h2>
-            <h3>Learning how to use PHPUnit doesn't have to suck</h3>
-            <p>PHPUnit is the most commonly-used unit testing framework for PHP developers.
-                While it's very powerful it also has a big learning curve. You know now is
-                the <b>time to master it</b> but you have no where to start. There's lots
-                of examples but you <b>need some guidance</b> on how to use it's features.
-            </p>
-            <p>
-                I'm a long-time PHP developer who has been promoting testing practices since 2005. Now, I want to help you learn to use PHPUnit to create tests that give you confidence that your code is on the right track.
-            </p>
-            <p>You'll know exactly how to tackle your existing code. You'll learn how to drive new features with your tests. You'll write tests that run fast and keep you moving quickly. Here's what I cover:
-                <ul class="checkbox-list">
-                    <li class="checkbox-list__item">How PHPUnit actually works</li>
-                    <li class="checkbox-list__item">Creating test doubles</li>
-                    <li class="checkbox-list__item">Creating data providers</li>
-                    <li class="checkbox-list__item">Data fixtures that grow along with your application</li>
-                    <li class="checkbox-list__item">How PHPUnit can be used to test API's</li>
-                    <li class="checkbox-list__item">Using DBUnit</li>
-                    <li class="checkbox-list__item">How to test exceptions</li>
-                </ul>
-            </p>
-            <p>
-                My book "The Grumpy Programmer's PHPUnit Cookbook" is a collection of tips and tricks for making PHPUnit do what you need it do in order to write tests for your code. With the information contained in this book you will get a jump start to make writing tests something you do effortlessly.
-            </p>
-            <a href="https://leanpub.com/grumpy-phpunit" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$19</span>
-                <span class="package__button-text">Ebook from LeanPub</span>
-            </a>
-            <a href="https://www.lulu.com/shop/chris-hartjes/the-grumpy-programmers-phpunit-cookbook/paperback/product-23475130.html" class="button package__button" target="_blank" rel="noopener noreferrer">
-                <span class="package__button-price">$23</span>
-                <span class="package__button-text">Paperback from Lulu</span>
-            </a>
-        </div>
         <div class="callout-box callout-box--spaced">
             <div class="callout-box__content-center">
                 <p>We have a mailing list that you can join that drops some grumpy knowledge in your inbox on an irregular basis. We hate spam as much as you do, so we pledge to never give your email address to any third parties.<br><br>

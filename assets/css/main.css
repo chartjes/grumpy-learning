@@ -1,0 +1,25 @@
+.item {
+    display: grid;
+    border-radius: 3px;
+    justify-items: center;
+}
+
+.item p {
+    margin: 0 0 5px 0;
+}
+
+.purchase {
+    justify-self: left;
+}
+
+.content p {
+    justify-self: left;
+}
+
+.content ul {
+    justify-self: left;
+}
+
+.product_image {
+    grid-column-start: 1;
+}

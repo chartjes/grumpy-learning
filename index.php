@@ -61,12 +61,9 @@
             <p>Got questions? <a href="mailto:chartjes@grumpy-learning.com">Email me</a> or find me on <a href="https://twitter.com/grmpyprogrammer">Twitter</a> as @grmpyprogrammer</p>
             <p>&copy; <?= date('Y') ?> Grumpy Learning Inc. All Right Reserved</p>
         </div>
-    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="assets/js/app.js"></script>
         </div>
       </div>
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="assets/js/app.js"></script>
   <script src="assets/js/app.js"></script>
 </body>
 </html>

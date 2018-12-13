@@ -33,19 +33,21 @@
 </head>
 <body>
     <div class="container">
-        <div class="item header">
+        <div class="header">
             <h1 class="header__title">Grumpy Learning</h1>
             <img src="images/gl-logo-350.jpg" alt="Grumpy Learning Logo">
             <p class="header__tagline">Learn to test like a grumpy programmer</p>
         </div>
-        <div class="item promo">
+        <div class="promo">
             <p>
             <ul class="checkbox-list">
             <?php perch_content('promo') ?>
             </ul>
             </p>
         </div>
-            <?php perch_content('products') ?>
+        <div class="catalog subitems">
+        <?php perch_content('products') ?>
+        </div>
         <div class="item footer">
             <p>We have a mailing list that you can join that drops some grumpy knowledge in your inbox on an irregular basis. We hate spam as much as you do, so we pledge to never give your email address to any third parties.<br><br>
                 <form action="http://grumpy-phpunit.us6.list-manage2.com/subscribe/post?u=161d0ed420649f1879e4985f1&amp;id=1a4c405c76" method="post" class="form-vertical" target="_blank">

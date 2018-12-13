@@ -1,21 +1,37 @@
 .container {
     display: grid;
-    grid-template-columns: 350px 1fr;
-    grid-template-rows: 500px 200px 1fr;
+    grid-template-rows: 600px 200px 1fr;
     grid-gap: 20px;
 }
 
 .header {
+    display: grid;
     grid-column: 1 / -1;
     justify-items: center;
 }
 
 .promo {
+    display: grid;
     grid-column: 1 / -1;
     justify-items: center;
 }
 
+.catalog {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    grid-gap: 20px;
+}
+
+.catalog .subitems {
+    display: contents;
+}
+
+
 .footer {
     grid-column: 1 / -1;
     justify-items: center;
+}
+
+.grid .subitems {
+    display: contents;
 }

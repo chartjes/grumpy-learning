@@ -1,6 +1,6 @@
 .container {
     display: grid;
-    grid-template-rows: 600px 200px 1fr;
+    grid-template-rows: 600px 100px 200px 1fr;
     grid-gap: 20px;
 }
 
@@ -18,14 +18,13 @@
 
 .catalog {
     display: grid;
-    grid-template-columns: 240px 1fr;
+    grid-template-columns: 240px minmax(240px, 1fr);
     grid-gap: 20px;
 }
 
 .catalog .subitems {
     display: contents;
 }
-
 
 .footer {
     grid-column: 1 / -1;
@@ -34,4 +33,10 @@
 
 .grid .subitems {
     display: contents;
+}
+
+.splash {
+    display: grid;
+    grid-column: 1 / -1;
+    justify-items: center;
 }

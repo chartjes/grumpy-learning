@@ -38,6 +38,9 @@
             <img src="images/gl-logo-350.jpg" alt="Grumpy Learning Logo">
             <p class="header__tagline">Learn to test like a grumpy programmer</p>
         </div>
+        <div class="splash">
+           <h1>Build your PHP testing skills, no matter what framework you use!</h1>
+        </div>
         <div class="promo">
             <p>
             <ul class="checkbox-list">

@@ -39,7 +39,7 @@
             <p class="header__tagline">Learn to test like a grumpy programmer</p>
         </div>
         <div class="splash">
-           <h1>Build your PHP testing skills, no matter what framework you use!</h1>
+           <h1>If you build things with PHP, learn the fundamentals of writing tests for your application</h1>
         </div>
         <div class="promo">
             <p>

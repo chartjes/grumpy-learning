@@ -30,6 +30,10 @@
                 <li><a href="/building.php">Building Test-Driven Developers</a></li>
             </ul>
             </p>
+            <p>
+            I've started building a section for <a href="/presentations">presentations</a> I've done
+            over the years.
+            </p>
         </div>
         <div class="footer">
             <p>We have a mailing list that you can join that drops some grumpy knowledge in your inbox on an irregular basis. We hate spam as much as you do, so we pledge to never give your email address to any third parties.<br><br>

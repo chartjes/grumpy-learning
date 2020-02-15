@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Learn To Test Like A Grumpy Programmer - Online Course</title>
+<title>The Grumpy Programmer's Guide To Testing PHP Applications</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 <link rel="stylesheet" href="./css/main.css">
@@ -15,24 +15,36 @@
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h1 class="header__title">Grumpy Learning</h1>
-        </div>
         <div class="main">
-            <img src="images/gl-logo-350.jpg" alt="Grumpy Learning Logo"/>
-           <h1>Learn to write tests for your PHP code no matter what framework you use!</h1>
+            <img src="images/grumpy-guide.jpg" alt="Cover for 'The Grumpy Programmer's Guide To Testing PHP Applications"/>
+           <h1>The Grumpy Programmer's Guide To Testing PHP Applications</h1>
+            <h3>16+ years of testing advice to help you learn to test your PHP code no matter what framework you use</h3>
             <p>
-            <ul>
-                <li><a href="https://littlehart.net/atthekeyboard" target="_blank">Articles</a></li>
-                <li><a href="/course.php">Video course</a></li>
-                <li><a href="/grumpy-phpunit.php">The Grumpy Programmer's PHPUnit Cookbook</a></li>
-                <li><a href="/mvt.php">Minimum Viable Tests</a></li>
-                <li><a href="/building.php">Building Test-Driven Developers</a></li>
+                I’ve been trying to help people test their PHP code for a very long time, probably before some of you reading this even got started in programming. PHPUnit didn’t exist, the most commonly-used version of PHP was 5.0, and social media wasn’t a thing. GMail had just started being used. My first search engine was Altavista. Yes, I learned to test uphill, both ways, in the snow.
+            </p>
+            <p>
+                I feel that testing, as a concept, is hard to explain to beginning programmers: “we are going to write code that is going to make sure your other code works as expected”. The assumption that underlies all this is that you already understand how to write computer programs in your chosen language! This makes it very difficult to teach to beginner or inexperienced programmers. When you combine this with how PHP does not force any particular structure on you, you have an environment where only the folks who are really motivated end up learning about testing.
+            </p>
+            <p>
+                <b>The Grumpy Programmer's Guide To Testing PHP Applications</b> is my way to provide some help for developers who are looking to become more test-centric and reap the benefits of automated testing and related tooling like static analysis and automation. I believe that by learning the skills (both technical and core) surrounding testing you will be able to write tests using almost any testing framework and almost any PHP application.
+            </p>
+            <p>
+                The book combines all the material from my previous books, adds new material, and revisits some old topics where my experiences have changed my thoughts. I break the vast topic of testing into smaller chunks, along with providing lots of examples and explanations of how I approach testing applications. Some of the things I cover are:
+
+                <ul>
+                <li>Test-Driven development</li>
+                <li>Strategies for Test-After practices</li>
+                <li>Test refactoring strategies</li>
+                <li>How PHPUnit itself works</li>
+                <li>Complementary tools and approaches like static analysis and mutation testing</li>
+                <li>Learning the core skills you need to get other people testing their code</li>
             </ul>
             </p>
             <p>
-            I've started building a section for <a href="/presentations">presentations</a> I've done
-            over the years.
+                <b>The Grumpy Programmer's Guide To Testing PHP Applications</b> is designed to be the book you refer to over and over again to not only learn how to test your PHP applications but to also remind yourself about techniques and tools that lead to successful outcomes. All I've ever wanted to do is get more people testing their code so we can concentrate on solving problems instead of constantly fixing bugs that we might've caught earlier.
+            </p>
+            <p>
+                <iframe width='160' height='400' src='https://leanpub.com/grumpy-guide/embed' frameborder='0' allowtransparency='true'></iframe>
             </p>
         </div>
         <div class="footer">

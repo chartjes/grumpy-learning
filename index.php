@@ -44,7 +44,7 @@
                 <b>The Grumpy Programmer's Guide To Testing PHP Applications</b> is designed to be the book you refer to over and over again to not only learn how to test your PHP applications but to also remind yourself about techniques and tools that lead to successful outcomes. All I've ever wanted to do is get more people testing their code so we can concentrate on solving problems instead of constantly fixing bugs that we might've caught earlier.
             </p>
             <p>
-                <iframe width='160' height='400' src='https://leanpub.com/grumpy-guide/embed' frameborder='0' allowtransparency='true'></iframe>
+                <iframe width='160' height='400' src='//leanpub.com/grumpy-guide/embed' frameborder='0' allowtransparency='true'></iframe>
             </p>
         </div>
         <div class="footer">
